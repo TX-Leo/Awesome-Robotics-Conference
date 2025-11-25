@@ -5,11 +5,11 @@
 | **Conference** | **Submission Deadline** | **Dates** | **Full Name** |
 | :--- | :--- | :--- | :--- |
 | **RSS**⭐️⭐️⭐️ | ~ Feb 1 | Jul 15-19 | Robotics: Science and Systems |
-| **IROS** | ~ Mar 1 | Oct 14-18 | IEEE/RSJ Int'l Conference on Intelligent Robots and Systems |
+| **IROS**⭐️ | ~ Mar 1 | Oct 14-18 | IEEE/RSJ Int'l Conference on Intelligent Robots and Systems |
 | **RO-MAN** | ~ Mar 20 | Aug 26-29 | IEEE Int'l Conference on Robot and Human Interactive Communication |
-| **CoRL**⭐️⭐️⭐️ | ~ Jun 7 | Nov 19-22 | Conference on Robot Learning |
+| **CoRL**⭐️⭐️ | ~ Jun 7 | Nov 19-22 | Conference on Robot Learning |
 | **Humanoids** | ~ Jul 15 | Nov 4-6 | IEEE-RAS Int'l Conference on Humanoid Robots |
-| **ICRA**⭐️⭐️⭐️ | ~ Sep 15 | May 17-23 | IEEE Int'l Conference on Robotics and Automation |
+| **ICRA**⭐️⭐️ | ~ Sep 15 | May 17-23 | IEEE Int'l Conference on Robotics and Automation |
 
 ## Journal
 
@@ -17,8 +17,8 @@
 | :--- | :--- |
 | **Science Robotics**⭐️⭐️⭐️ | Science Robotics |
 | **TPAMI**⭐️⭐️⭐️ | IEEE Transactions on Pattern Analysis and Machine Intelligence |
-| **IJRR**⭐️ | International Journal of Robotics Research |
-| **TRO**⭐️ | IEEE Transactions on Robotics |
+| **IJRR**⭐️⭐️ | International Journal of Robotics Research |
+| **TRO**⭐️⭐️ | IEEE Transactions on Robotics |
 | **JFR**⭐️ | Journal of Field Robotics |
 | **RAL**⭐️ | IEEE Robotics and Automation Letters |
 | **RAS** | Robotics and Autonomous Systems |
